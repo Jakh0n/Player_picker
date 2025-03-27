@@ -1,8 +1,14 @@
 # 🎲 PlayFun
 
-## 📷 Screenshots
+## 🚀 Live Website
+Experience the app live:  
+https://player-picker.vercel.app/
 
-![Player Picker Preview](screenshots/player-picker-preview.png)
+---
+
+## 📸 Screenshots  
+### **Home Page:** 
+![Homepage Screenshot](./screenshots/homepage.png) 
 
 PlayFun is a web application that allows users to add players and randomly divide them into teams. It supports up to 4 teams, provides a smooth and mobile-friendly UI, and includes a sliding table for easy team viewing.
 
